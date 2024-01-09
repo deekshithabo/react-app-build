@@ -1,4 +1,4 @@
-# Deploy React App to Server
+# Deploy React App to Server.
 
 This project teaches how to deploy a react application to server (AWS)
 
